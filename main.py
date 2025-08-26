@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import requests
 from bs4 import BeautifulSoup
 
@@ -34,3 +35,6 @@ def get_article_content(url):
 if __name__ == "__main__":
     url = 'https://edition.cnn.com/travel/article/scenic-airport-landings-2020/index.html'
     get_article_content(url)
+=======
+
+>>>>>>> bf501bc5013f01f99d58982c8196fc5c4b9b7be5
